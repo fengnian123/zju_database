@@ -1,0 +1,6 @@
+host: "localhost"
+port: "3306"
+user: "root"
+password: "zzf13995275321"
+db: "library"
+type: "mysql"
